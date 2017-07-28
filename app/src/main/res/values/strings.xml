@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">E-Challan App</string>
+    <string name="title_activity_chat">eChallan</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <array name="vtypes">
+        <item>2-Wheeler</item>
+        <item>AutoRiksha</item>
+        <item>Car/Jeep</item>
+        <item>MiniVan</item>
+        <item>Van/Bus</item>
+        <item>HeavyVehicle</item>
+        <item>IndustrialVehicle</item>
+    </array>
+    <array name="pmodes">
+        <item>Cash</item>
+        <item>Bank Challan</item>
+    </array>
+</resources>
